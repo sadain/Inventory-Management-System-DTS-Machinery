@@ -1,0 +1,20 @@
+{
+  "short_name": "DTS Machinery",
+  "name": "DTS Machinery - Inventory app",
+  "icons": [
+    {
+      "src": "DTS-logo-favico-64x64.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "DTS-logo-favico-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
